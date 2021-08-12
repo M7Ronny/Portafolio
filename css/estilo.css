@@ -859,12 +859,12 @@ section{
 	}
 	.contenido-medio p{
 	font-size: 17px;
-	margin: 0px;
 	padding: 10px 8px;
 
 }
 	.texto-contenidomedio{
-		width: 80%;
+		width: 85%;
+		padding:10px;
 	}
 
 	#botones:nth-of-type(2){
