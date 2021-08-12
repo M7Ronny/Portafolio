@@ -51,12 +51,12 @@ h2{
 	background-color: #464646bd;
 	backdrop-filter: blur(10px);
 }.texto-contenidomedio .red{
-	color: red;
+	color: #ff2626;
 	font-size: 25px;
 	margin-right: 5px;
 }
 .texto-contenidomedio .green{
-	color: green;
+	color: #38d862;
 	font-size: 25px;
 	margin-right: 5px;
 }
@@ -963,13 +963,13 @@ section{
 	}
 	.nav-links{
 		position: absolute;
-		background: linear-gradient(
-			to right bottom,
-			rgba(222, 0, 46, 0.7),
-			rgba(0, 0, 0, 0.3)
-		);
+		background:linear-gradient(
+   to right bottom,
+   rgb(14 1 4 / 91%),
+   rgb(17 4 11 / 62%)
+  );
 		animation: gradient 3s ease-in-out infinite;
-		backdrop-filter:blur(.6rem);
+		backdrop-filter:blur(1.6rem);
 		height: 180vh;
 		width: 100%;
 		flex-direction: column;
