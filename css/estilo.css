@@ -15,7 +15,7 @@ html{
 h2{
 	font-size: 28px;
 }
-.img-form{
+.logo-form{
 	width:150px;
 	height:150px;
 }
@@ -858,7 +858,7 @@ section{
 }
 @media screen and (max-width: 950px){
 
-	.img-form{
+	.logo-form{
 	width:120px;
 	height:140px;
 }
