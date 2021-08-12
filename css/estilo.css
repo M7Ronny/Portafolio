@@ -963,7 +963,7 @@ section{
 		);
 		animation: gradient 3s ease-in-out infinite;
 		backdrop-filter:blur(.6rem);
-		height: 110vh;
+		height: 150vh;
 		width: 100%;
 		flex-direction: column;
 		clip-path: circle(100px at 90% -10%);
