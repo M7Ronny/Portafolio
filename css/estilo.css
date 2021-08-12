@@ -93,7 +93,7 @@ h2{
 	margin: 20px auto;
 	text-align: center;
 	align-content: center;
-	width: 45px;
+	width: 50px;
 	height: 45px;
 	border-radius: 10%;
 	background-color: #ccccccd4;
@@ -102,7 +102,7 @@ h2{
 .back-boton p{
 	color: red;
 	padding-bottom: 8px;
-	font-size: 28px;
+	font-size: 35px;
 	transition: 0.5 ease;
 }
 .back-boton p:hover{
@@ -707,7 +707,7 @@ section{
 	padding-bottom: 15px;
 	padding-right: 5px;
 	padding-left: 5px;
-	font-size: 100px;
+	font-size: 85px;
 	backdrop-filter: blur(3px);
 	background-color: #5615154d;
 	color: #ff2c2c;
@@ -844,6 +844,7 @@ section{
 	}
 	.presentacion p{
 		letter-spacing: 0.5px;
+		font-size:18px;
 		
 	}
 	#botones:nth-of-type(2){
@@ -868,7 +869,7 @@ section{
 	}
 
 	#botones:nth-of-type(2){
-	left:91%;
+	left:84%;
 	padding-right: 0px;
 	text-align:right;
 }
@@ -941,7 +942,7 @@ section{
 }
 
 	.line{
-		width: 41px;
+		width: 37px;
 		height: 7px;
 		border-radius: 3px;
 		background: white;
