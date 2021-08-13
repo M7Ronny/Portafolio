@@ -454,12 +454,12 @@ form.form_contact input[type="submit"]:hover{
 	
 }
 .presentacion{
-	margin: 20px 0px 20px 0px;
+	margin: 20px 0px 0px 0px;
 	text-align: center;
 	font-family: 'Raleway', sans-serif;
 }
 .presentacion p{
-	margin-bottom: 0px;
+	margin-bottom: 30px;
 	font-size: 20px;
 	letter-spacing: 1px;
 	text-align: center;
@@ -568,7 +568,7 @@ header .categorias{
 header .categorias a{
 	color: #9b9b9b;
 	letter-spacing: 1px;
-	margin: 10px 30px;
+	margin: 10px 20px;
 	font-size: 18px;
 	font-weight: 700;
 }
