@@ -6,8 +6,9 @@ const grid = new Muuri('.grid', {
 });
 
 window.addEventListener('load', () => {
-
-const enlaces = document.querySelectorAll('#categorias a');
+	grid.refreshItems().layout();
+	document.getElementsById('grid').classList.add('imagenes-cargas');
+	const enlaces = document.querySelectorAll('#categorias a');
 
 enlaces.forEach( (elemento) => {
 	console.log(elemento);
