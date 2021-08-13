@@ -8,6 +8,9 @@
 	font-size: 15px;
 	text-transform: none;
 }
+iframe{
+	width:90%;
+}
 html{
 	scroll-behavior: smooth;
 	overflow-x: hidden;
@@ -106,7 +109,6 @@ h2{
 }
 .back-boton p{
 	color: red;
-	padding-bottom: 8px;
 	font-size: 35px;
 	transition: 0.5 ease;
 }
