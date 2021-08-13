@@ -1030,6 +1030,7 @@ iframe{
 	}
 	li.fade{
 		opacity: 1;
+		margin-bottom:140px;
 	}
 	.body.lock{
 		overflow: hidden;
