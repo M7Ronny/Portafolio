@@ -860,6 +860,10 @@ section{
 	}
 }
 @media screen and (max-width: 950px){
+	
+	margin: 10px 10px;
+	
+}
 iframe{
 	width:90%;
 }
