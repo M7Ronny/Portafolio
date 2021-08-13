@@ -863,7 +863,7 @@ section{
 }
 @media screen and (max-width: 950px){
 iframe{
-	width:90%;
+	width:96%;
 }
 	.logo-form{
 	width:120px;
@@ -909,7 +909,10 @@ iframe{
 }
 
 @media screen and (max-width: 750px){
-	
+	.formulario{
+		width:95%;
+		height:550px;
+	}
 	#botones{
 		height:505px;
 		padding-right:0px;
