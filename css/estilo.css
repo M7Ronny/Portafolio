@@ -910,6 +910,9 @@ iframe{
 	
 	#botones{
 		height:505px;
+		padding-right:0px;
+		padding-left:0px;
+		font-size:70px;
 	}
 	#images{
 	height:500px;
