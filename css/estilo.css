@@ -195,7 +195,7 @@ ul li{
     justify-content: center;
 	background-image: url('../img/fondo-x.jpg');
     background-size: cover;
-    background-position: center center;
+    
 }
 .titulo-info,
 .titulo-items{
@@ -992,9 +992,9 @@ section{
 	}
 	.nav-links.open {
 		clip-path: circle(950px at 90% -10%);
-		-webkit-clip-path: circle(950px at 90% -10%);
+		-webkit-clip-path: circle(2000px at 90% -10%);
 		pointer-events: all;
-		height: 30vh;
+		
 	}
 	.nav-links li{
 		opacity: 0;
