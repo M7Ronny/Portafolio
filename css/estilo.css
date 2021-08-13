@@ -889,7 +889,7 @@ iframe{
 }
 
 	.ropa-img img{
-		max-width: 70%;
+		min-width: 90%;
 		padding: 0;
 		height: 250;
 	}
@@ -915,7 +915,7 @@ iframe{
 }
 
 .ropa-img img{
-	max-width: 75%;
+	min-width: 80%;
 	height: 200px;
 
 }
