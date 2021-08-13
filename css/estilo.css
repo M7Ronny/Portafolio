@@ -375,8 +375,8 @@ form.form_contact input[type="submit"]:hover{
 	background-position: center;
 }
 .ropa-ad{
-	height: 325px;
-	border-radius: 12px;
+	height: 250px;
+	border-radius: 8px;
 	background-color: #dc4343;
 	text-align: center;
 	padding-bottom: 18px;
