@@ -907,7 +907,13 @@ iframe{
 }
 
 @media screen and (max-width: 750px){
-
+	
+	#botones{
+		height:505px;
+	}
+	#images{
+	height:500px;
+	}
 	.modalContent{
 	width: 95%;
 	
