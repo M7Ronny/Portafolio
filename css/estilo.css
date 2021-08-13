@@ -935,7 +935,7 @@ iframe{
     -o-animation: fadeWhatsapp 2s ease-out;
     animation: fadeWhatsapp 2s ease-out;
 	position:fixed;
-	width:160px;
+	width:125px;
 	height:83px;
 	bottom:100px;
 	right:18px;
