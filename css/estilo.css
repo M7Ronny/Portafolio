@@ -102,7 +102,6 @@ h2{
 	text-align: center;
 	align-content: center;
 	width: 50px;
-	height: 45px;
 	border-radius: 10%;
 	background-color: #ccccccd4;
 	transition: 0.5s ease;
@@ -569,7 +568,7 @@ header .categorias{
 header .categorias a{
 	color: #9b9b9b;
 	letter-spacing: 1px;
-	margin: 10px 30px;
+	margin: 10px 25px;
 	font-size: 18px;
 	font-weight: 700;
 }
@@ -891,7 +890,7 @@ iframe{
 	.ropa-img img{
 		min-width: 90%;
 		padding: 0;
-		height: 250;
+		height: 250px;
 	}
 	.modalContent{
 
@@ -915,7 +914,7 @@ iframe{
 }
 
 .ropa-img img{
-	min-width: 80%;
+	min-width: 90%;
 	height: 200px;
 
 }
@@ -949,10 +948,7 @@ iframe{
 .linea2{
 	display: inline-grid;
 	width: 100%;
-	margin-top: 30px;
-}
-.cajita{
-	margin-top: 20px;
+	padding:10px;
 }
 
 	.line{
