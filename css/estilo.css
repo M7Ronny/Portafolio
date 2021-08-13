@@ -568,7 +568,7 @@ header .categorias{
 header .categorias a{
 	color: #9b9b9b;
 	letter-spacing: 1px;
-	margin: 10px 20px;
+	margin: 10px 25px;
 	font-size: 18px;
 	font-weight: 700;
 }
@@ -860,10 +860,6 @@ section{
 	}
 }
 @media screen and (max-width: 950px){
-	
-	margin: 10px 10px;
-	
-}
 iframe{
 	width:90%;
 }
