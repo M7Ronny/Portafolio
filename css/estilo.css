@@ -853,6 +853,8 @@ section{
 	.presentacion p{
 		letter-spacing: 0.5px;
 		font-size:18px;
+		width:80%;
+		margin:auto;
 		
 	}
 	#botones:nth-of-type(2){
