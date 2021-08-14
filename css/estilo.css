@@ -8,6 +8,9 @@
 	font-size: 15px;
 	text-transform: none;
 }
+.logo-nav-pc{
+width:40px;
+}
 .logo-nav-phone{
 display:none;
 }
