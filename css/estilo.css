@@ -870,7 +870,11 @@ section{
 @media screen and (max-width: 950px){
 	
 	.logo-nav-phone{
-	width: 38px;height: 55px;padding-top: 10px; margin-left: 40px;
+		display:inline;
+	 width: 38px;
+		height: 55px;
+		padding-top: 10px; 
+		margin-left: 40px;
 	}
 iframe{
 	width:96%;
