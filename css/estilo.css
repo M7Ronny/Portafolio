@@ -21,9 +21,7 @@ width:40px;
 .logo-nav-phone{
 display:none;
 }
-iframe{
-	width:55%;
-}
+
 html{
 	scroll-behavior: smooth;
 	overflow-x: hidden;
