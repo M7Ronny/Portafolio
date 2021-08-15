@@ -259,16 +259,16 @@ form.form_contact label{
 form.form_contact input,
 form.form_contact textarea{
 
-    width: 90%;
+    width: 100%;
     padding: 8px 0px 5px;
-	text-transform:capitalize;
+
     margin-bottom: 20px;
     border: none;
     border-bottom: 1px solid #c2c2c5;
 	font-family: 'arial';
 	letter-spacing:1px;
 	color: #5A5A5A;
-	font-size: 18px;
+	font-size: 15px;
 	font-weight: 400;
 }
 .titulos-form{
