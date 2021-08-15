@@ -6,7 +6,7 @@ const grid = new Muuri('.grid', {
 });
 
 window.addEventListener('load', () => {
-	document.getElementsById('carga').style.display = "none";
+	document.getElementById('carga').style.display = "none";
 	grid.refreshItems().layout();
 	document.getElementById('grid').classList.add('imagenes-cargadas');
 	
