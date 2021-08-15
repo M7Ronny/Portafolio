@@ -8,6 +8,9 @@
 	font-size: 15px;
 	text-transform: none;
 }
+#trucazo{
+opacity:0;
+}
 .carga{
 width:30px;
 
