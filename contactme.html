@@ -94,22 +94,23 @@
                 </section>
             </seccion>
             
-            <form action="php/enviar.php" method="post" class="form_contact">
+            <form id="form" action="" method="post" class="form_contact">
                 <div class="h2">
                 <h2>Enviame un mensaje</h2>
             </div>
                 <div class="usuario-info">
-                    <label class="titulos-form" for="names">Nombres (*)</label>
+                    <label class="titulos-form" for="name">Nombres (*)</label>
                     <input type="text" id="names" placeholder="Ingrese nombre completo" name="nombre" required>
                     <label class="titulos-form" for="phone">Telefono</label>
                     <input type="number" id="phone" placeholder="+58 555-555-55" name="telefono" >
                     <label class="titulos-form" for="email">Correo electronico (*)</label>
                     <input type="text" id="email" placeholder="Correo@ejemplo.com" name="correo" required>
-                    <label class="titulos-form" for="mensaje">Mensaje (*)</label>
+                    <label class="titulos-form" for="message">Mensaje (*)</label>
                     <textarea id="mensaje" name="mensaje" placeholder="Hablame de tu proyecto..." required></textarea>
                     <input type="submit" id="btnsend" value="Enviar">
                 </div>
             </form>
+            <a href="mailto:rrnnn200@gmail.com" id="trucazo">mail</a>
         </section><hr>
     
 
