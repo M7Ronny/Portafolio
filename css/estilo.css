@@ -13,7 +13,9 @@ opacity:0;
 }
 .carga{
 width:30px;
-
+}
+iframe{
+	width:30%;
 }
 .logo-nav-pc{
 width:40px;
